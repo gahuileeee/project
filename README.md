@@ -5,4 +5,4 @@
 |------|---|---|
 |2023.12|Drathing(그림을 그려 공유하는 웹사이트)|[project1](https://github.com/gahuileeee/drathing)|
 |2024.05|lotteshop(요구사항 명세서에 맞춰 제작한 쇼핑몰 웹사이트)|[project2](https://github.com/gahuileeee/lotteshop)|
-[2024.06ㅣ일름보(사내 커뮤니티 웹사이트)|[project3](https://github.com/gahuileeee/ilembo)|
+|2024.06ㅣ일름보(사내 커뮤니티 웹사이트)|[project3](https://github.com/gahuileeee/ilembo)|
